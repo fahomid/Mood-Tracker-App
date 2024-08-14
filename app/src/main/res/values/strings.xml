@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mood Tracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="i_m_happy">I\'m Happy</string>
+    <string name="i_m_sad">I\'m Sad</string>
+    <string name="i_m_neutral">I\'m Neutral</string>
+    <string name="select_how_you_re_feeling_now">Select how you\'re feeling now:</string>
+    <string name="your_mood_will_appear_here">Your mood will appear here</string>
+    <string name="motivational_message_will_appear_here">Motivational message will appear here</string>
+    <string name="here_s_a_handpicked_dose_of_motivation_straight_from_the_web_to_uplift_your_day">Here\'s a handpicked dose of motivation, straight from the web, to keep you motivated throughout the day:</string>
+    <string name="motivational_quote_will_appear_here">Motivational quote will appear here</string>
+    <string name="mood_message">Your current mood is: %1$s</string>
+    <string name="could_not_retrieve_quote">Could not retrieve quote.</string>
+    <string name="quote_message">"%1$s" \n\n- %2$s</string>
+    <string name="error_retrieving_quote">Error retrieving quote.</string>
+    <string name="night_mode_off">Night Mode Off</string>
+    <string name="night_mode_on">Night Mode On</string>
+    <string name="home">Home</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="turn_on_or_off_night_mode_for_the_app">Turn on or off night mode for the app!</string>
+    <string name="app_settings">App Settings</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+</resources>
